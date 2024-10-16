@@ -112,9 +112,9 @@ body_fat_estimator/
 │   ├── app.py
 │   ├── Dockerfile
 │   ├── lr.joblib
+│   ├── Procfile
 │   └── requirements.txt
 ├── Body_Fat_Estimator.ipynb
-├── Procfile
 ├── README.md
 └── screenshot.png
 ```
